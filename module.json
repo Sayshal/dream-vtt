@@ -1,0 +1,54 @@
+{
+  "id": "dream",
+  "title": "D.R.E.A.M",
+  "description": "DM Requests Enacted As (a) Module or D.R.E.A.M: a suite of standalone tweaks, additions, and enhancements to the 5e system.",
+  "version": "",
+  "bugs": "https://github.com/Sayshal/dream/issues",
+  "changelog": "https://github.com/Sayshal/dream/releases",
+  "license": "https://github.com/Sayshal/dream?tab=MIT-1-ov-file",
+  "readme": "https://github.com/Sayshal/dream?tab=readme-ov-file",
+  "authors": [
+    {
+      "name": "Tyler",
+      "discord": "Tyler",
+      "url": "https://github.com/Sayshal",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "maximum": "13.339",
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "download": "",
+  "esmodules": ["scripts/dream.js"],
+  "flags": {
+    "hotReload": {
+      "extensions": ["css", "html", "hbs", "json"],
+      "paths": ["styles", "lang", "templates"]
+    }
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "https://github.com/Sayshal/dream/releases/latest/module.json",
+  "relationships": {
+    "systems": [
+      {
+        "compatibility": {
+          "maximum": "4.3.x",
+          "minimum": "3.3.1",
+          "verified": "4.3.6"
+        },
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  },
+  "styles": ["styles/dream.css"],
+  "url": "https://github.com/Sayshal/dream"
+}

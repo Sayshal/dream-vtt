@@ -1,0 +1,102 @@
+{
+  "DREAM": {
+    "Settings": {
+      "CompendiumBrowserKeybind": {
+        "Hint": "Enables a keyboard shortcut to open the compendium browser",
+        "Name": "Compendium Browser Keybind"
+      },
+      "LogLevel": {
+        "Choices": {
+          "0": "None!",
+          "1": "Errors Only",
+          "2": "Warnings & Errors",
+          "3": "Everything"
+        },
+        "Hint": "How much do you want D.R.E.A.M to complain? (Alt+C by default)",
+        "Name": "Debug Level"
+      },
+      "HighlightPreparedSpells": {
+        "Name": "Highlight Prepared Spells",
+        "Hint": "Enabled highlighting prepared spells on the default 5e character sheet."
+      },
+      "EnableCustomCurrencies": {
+        "Name": "Custom Currencies",
+        "Hint": "Enable custom currency features for renaming and hiding currencies."
+      },
+      "HidePP": {
+        "Name": "Hide Platinum",
+        "Hint": "Hide platinum currency from character sheets."
+      },
+      "HideGP": {
+        "Name": "Hide Gold",
+        "Hint": "Hide gold currency from character sheets."
+      },
+      "HideEP": {
+        "Name": "Hide Electrum",
+        "Hint": "Hide electrum currency from character sheets."
+      },
+      "HideSP": {
+        "Name": "Hide Silver",
+        "Hint": "Hide silver currency from character sheets."
+      },
+      "HideCP": {
+        "Name": "Hide Copper",
+        "Hint": "Hide copper currency from character sheets."
+      },
+      "PPName": {
+        "Name": "Platinum Name",
+        "Hint": "Custom name for platinum currency."
+      },
+      "GPName": {
+        "Name": "Gold Name",
+        "Hint": "Custom name for gold currency."
+      },
+      "EPName": {
+        "Name": "Electrum Name",
+        "Hint": "Custom name for electrum currency."
+      },
+      "SPName": {
+        "Name": "Silver Name",
+        "Hint": "Custom name for silver currency."
+      },
+      "CPName": {
+        "Name": "Copper Name",
+        "Hint": "Custom name for copper currency."
+      },
+      "PPAbbr": {
+        "Name": "Platinum Abbreviation",
+        "Hint": "Custom abbreviation for platinum currency."
+      },
+      "GPAbbr": {
+        "Name": "Gold Abbreviation",
+        "Hint": "Custom abbreviation for gold currency."
+      },
+      "EPAbbr": {
+        "Name": "Electrum Abbreviation",
+        "Hint": "Custom abbreviation for electrum currency."
+      },
+      "SPAbbr": {
+        "Name": "Silver Abbreviation",
+        "Hint": "Custom abbreviation for silver currency."
+      },
+      "CPAbbr": {
+        "Name": "Copper Abbreviation",
+        "Hint": "Custom abbreviation for copper currency."
+      },
+      "UseStandardCurrency": {
+        "Name": "Use Standard Currency",
+        "Hint": "Convert all prices to display in the standard currency."
+      },
+      "StandardCurrency": {
+        "Name": "Standard Currency",
+        "Hint": "The currency to use as standard for all prices."
+      }
+    },
+    "WISP": {
+      "CompendiumBrowserKeybind": {
+        "Hint": "Opens the compendium browser directly (Alt+C by default)",
+        "Name": "Open Compendium Browser"
+      }
+    }
+  }
+}
